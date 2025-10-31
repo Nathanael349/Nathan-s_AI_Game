@@ -507,7 +507,7 @@ pip install -r requirements.txt
 **Solution**:
 Edit `config.py`:
 ```python
-OPENAI_MODEL = "gpt-4o-mini"  # Cheaper model (default)
+OPENAI_MODEL = "gpt-3.5-turbo"  # Cheaper model (default)
 TOTAL_TURNS = 4  # Reduce turns
 ```
 
