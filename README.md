@@ -556,15 +556,10 @@ If problems persist:
 
 ### Cost Information
 
-**Using gpt-4o-mini (default):**
-- Per turn: ~$0.01-0.02
-- Full 8-turn game: ~$0.08-0.15
-- Very affordable for casual play!
-
-**Using gpt-4 (if you change it):**
-- Per turn: ~$0.10-0.20
-- Full 8-turn game: ~$0.80-1.60
-- Better quality, higher cost
+**Using gpt-3.5-turbo:**
+- Per turn: ~$0.003-0.006
+- Full 8-turn game: ~$0.03-0.05
+- Extremely affordable for casual play!
 
 ### Time Requirements
 
@@ -595,7 +590,7 @@ These can be shared, archived, or analyzed.
 
 **Created By**: Nathanael Richard Ha Hanes  
 **Date**: October 31, 2025  
-**License**: MIT (see LICENSE file)
+**License**: Apache License 2.0 (see LICENSE file)
 
 ---
 
@@ -611,13 +606,4 @@ python3 main.py
 
 ---
 
-## � Additional Documentation
-
-- **REPORT.md** - Complete lab report with technical details
-- **TECHNICAL_DOCUMENTATION.md** - Deep dive into implementation
-- **ARCHITECTURE_DIAGRAM.md** - Visual system diagrams
-- **QUICKSTART.md** - Ultra-brief setup guide
-
----
-
-**Questions?** Check the documentation files or review the troubleshooting section above.
+**Questions?** Check REPORT.md for technical details or review the troubleshooting section above.
