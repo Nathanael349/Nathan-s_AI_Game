@@ -1,7 +1,7 @@
 # Lab 2.2 Report: The Evolving Kingdom
 **Student**: Nathanael Richard Ha Hanes  
-**Date**: October 31, 2025  
-**Course**: Introduction to AI
+**Date**: November 13, 2025  
+**Course**: Introduction to Artificial Intelligence
 
 ---
 
@@ -30,12 +30,12 @@
 6. After 8 turns: AI generates comprehensive "Epic Kingdom History"
 
 **Key Innovation:**
-Unlike traditional games where character personalities are static, in this game, faction personalities **genuinely evolve** based on accumulated AI-generated interactions. The LLM doesn't just respond—it **remembers, reflects, and transforms** based on its own previous outputs.
+Unlike traditional games where character personalities are static, in this game, faction personalities **genuinely evolve** based on accumulated AI-generated interactions. The LLM doesn't just respond, it also **remembers, reflects, and transforms** based on its own previous outputs.
 
 ### 1.3 Why This Game is Unique
 
 1. **Emergent Storytelling**: Each playthrough creates a unique narrative arc because personalities evolve differently based on decisions
-2. **True Memory System**: Not just conversation history—structured memory with sentiment analysis and personality tracking
+2. **True Memory System**: Not just conversation history, it also has structured memory with sentiment analysis and personality tracking
 3. **Meta-Narrative**: The final review is the AI analyzing and narrativizing its own creative outputs
 4. **Technical Demonstration**: Clear showcase of advanced LLM capabilities beyond simple generation
 
@@ -559,16 +559,16 @@ The final review demonstrates LLMs can perform meta-analysis - understanding nar
 ### 4.1 Project Success
 
 **Objectives Met:**
-✅ Created an engaging game (text adventure/diplomacy simulator)  
-✅ Used multiple LLM tasks (8 distinct functions)  
-✅ LLM digests its own outputs (clear self-digestion mechanism)  
-✅ Creates enjoyable review (Epic Kingdom History)  
+- Created an engaging game (text adventure/diplomacy simulator)  
+- Used multiple LLM tasks (8 distinct functions)  
+- LLM digests its own outputs (clear self-digestion mechanism)  
+- Creates enjoyable review (Epic Kingdom History)  
 
 **Additional Achievements:**
-✅ Professional code quality with comprehensive documentation  
-✅ Structured JSON-based memory system  
-✅ Emergent storytelling capability  
-✅ Clear demonstration value for educational purposes  
+- Professional code quality with comprehensive documentation  
+- Structured JSON-based memory system  
+- Emergent storytelling capability  
+- Clear demonstration value for educational purposes  
 
 ### 4.2 What I Learned
 
