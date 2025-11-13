@@ -11,10 +11,6 @@ env/
 venv/
 ENV/
 
-# Game saves
-game_state.json
-*.json.backup
-
 # IDE
 .vscode/
 .idea/
